@@ -1,0 +1,10 @@
+c:\users\sachi\onedrive\documents\visual studio 2013\Projects\TimeCard Application\TimeCard Application\bin\Debug\TimeCard Application.exe.config
+c:\users\sachi\onedrive\documents\visual studio 2013\Projects\TimeCard Application\TimeCard Application\bin\Debug\TimeCard Application.exe
+c:\users\sachi\onedrive\documents\visual studio 2013\Projects\TimeCard Application\TimeCard Application\bin\Debug\TimeCard Application.pdb
+c:\users\sachi\onedrive\documents\visual studio 2013\Projects\TimeCard Application\TimeCard Application\obj\Debug\TimeCard Application.csprojResolveAssemblyReference.cache
+c:\users\sachi\onedrive\documents\visual studio 2013\Projects\TimeCard Application\TimeCard Application\obj\Debug\TimeCard_Application.Properties.Resources.resources
+c:\users\sachi\onedrive\documents\visual studio 2013\Projects\TimeCard Application\TimeCard Application\obj\Debug\TimeCard Application.csproj.GenerateResource.Cache
+c:\users\sachi\onedrive\documents\visual studio 2013\Projects\TimeCard Application\TimeCard Application\obj\Debug\TimeCard Application.exe
+c:\users\sachi\onedrive\documents\visual studio 2013\Projects\TimeCard Application\TimeCard Application\obj\Debug\TimeCard Application.pdb
+C:\Users\sachi\onedrive\documents\visual studio 2013\Projects\TimeCard Application\TimeCard Application\obj\Debug\TimeCard_Application.Login.resources
+C:\Users\sachi\onedrive\documents\visual studio 2013\Projects\TimeCard Application\TimeCard Application\obj\Debug\TimeCard_Application.Main_Form.resources
